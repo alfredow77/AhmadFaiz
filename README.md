@@ -14,6 +14,7 @@ Karakter dibuat menggunakan fungsi-fungsi dasar **OpenCV** seperti `cv2.rectangl
 ---
 
 ##  Transformasi dan Operasi yang Digunakan
+
 1. **Translation** → Menggeser posisi karakter pada kanvas.
    <img width="400" height="500" alt="added" src="https://github.com/user-attachments/assets/502b5cd3-1afd-4ed0-ada6-53fd4c2395f0" />
 
