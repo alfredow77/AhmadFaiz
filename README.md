@@ -26,7 +26,8 @@ Karakter dibuat menggunakan fungsi-fungsi dasar **OpenCV** seperti `cv2.rectangl
 ## 📸 Screenshot Hasil
 | Asli | Rotasi | Crop | Bitwise | Final |
 |:----:|:------:|:-----:|:-------:|:------:|
-| ![Karakter](output/karakter.png) | ![Rotasi](output/rotate.png) | ![Crop](output/crop.png) | ![Bitwise](output/bitwise.png) | ![Final](output/final.png) |
+| ![Karakter](<img width="400" height="500" alt="added" src="https://github.com/user-attachments/assets/502b5cd3-1afd-4ed0-ada6-53fd4c2395f0" />
+) | ![Rotasi](output/rotate.png) | ![Crop](output/crop.png) | ![Bitwise](output/bitwise.png) | ![Final](output/final.png) |
 
 ---
 
