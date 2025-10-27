@@ -2,7 +2,6 @@
 UTS_ComputerVision
 # 🧠 UTS Computer Vision
 
-# 🧠 UTS Computer Vision
 
 
 ---
@@ -31,7 +30,3 @@ Karakter dibuat menggunakan fungsi-fungsi dasar **OpenCV** seperti `cv2.rectangl
 
 ---
 
-## ⚙️ Cara Menjalankan Program
-1. Pastikan kamu sudah menginstal dependensi berikut:
-   ```bash
-   pip install opencv-python numpy
